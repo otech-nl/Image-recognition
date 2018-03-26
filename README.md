@@ -10,6 +10,8 @@ Wil je samen met ons de mogelijkheden van image recognition verder verkennen. Me
 
 Praktische zaken:
 
+Neem voor vragen over GitHub -bijvoorbeeld voor het aanmaken van een repository voor je eigen team- contact op met Willy Tadema, e-mail: w(punt)tadema(at)provinciegroningen.nl
+
 Data: Maandag 26 maart, 9 april en maandag 23 april 2018.
 Aanvang: 16.00 uur.
 Einde: 20.30 uur.
