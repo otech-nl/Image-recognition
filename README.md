@@ -18,6 +18,6 @@ Catering: Er wordt gezorgd voor een hapje en een drankje.
 Neem voor vragen over GitHub -bijvoorbeeld voor het aanmaken van een repository voor je eigen team- contact op met Willy Tadema, e-mail: w(punt)tadema(at)provinciegroningen.nl
 
 ## Bestanden delen via GitHub
-Teams kunnen bestanden delen via een GitHub repository van Kennisnetwerk Data Science.      
-Neem hiervoor contact op met Willy Tadema: w(punt)tadema(apestaartje)provinciegroningen(punt)nl.     
-Er zijn al repo's voor [team 2](./teampje2/README.md) en [team 5](./team5/README.md).
+Teams kunnen bestanden delen via een GitHub repository van Kennisnetwerk Data Science.    
+Neem hiervoor contact op met Willy Tadema: w(punt)tadema(apestaartje)provinciegroningen(punt)nl.    
+Er zijn al repo's voor [team 2](https://github.com/KennisnetwerkDataScience/teampje2) en [team 5](https://github.com/KennisnetwerkDataScience/team5).    
