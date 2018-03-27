@@ -9,6 +9,8 @@ numpy = "*"
 pillow = "*"
 tifffile = "*"
 pandas = "*"
+jupyter = "*"
+matplotlib = "*"
 
 [dev-packages]
 
