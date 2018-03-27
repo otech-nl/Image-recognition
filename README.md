@@ -21,3 +21,22 @@ Neem voor vragen over GitHub -bijvoorbeeld voor het aanmaken van een repository 
 Teams kunnen bestanden delen via een GitHub repository van Kennisnetwerk Data Science.    
 Neem hiervoor contact op met Willy Tadema: w(punt)tadema(apestaartje)provinciegroningen(punt)nl.    
 Er zijn al repo's voor [team 2](https://github.com/KennisnetwerkDataScience/teampje2) en [team 5](https://github.com/KennisnetwerkDataScience/team5).    
+
+## Interessant links
+Image recognition:
+* [Image Segmentation with Tensorflow using CNNs and Conditional Random Fields](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/)
+
+Open data:
+* [Open data portaal RUG](http://opendata.rug.nl/)
+* [Nationaal Georegister](http://www.nationaalgeoregister.nl)
+* [Publieke Dienstverlening op de Kaart (PDOK)](http://www.pdok.nl)
+* [Actueel Hoogtebestand Nederland (AHN3)](https://www.pdok.nl/nl/ahn3-downloads)
+* [Basisregistratie Grootschalige Topografie (BGT)](https://www.pdok.nl/nl/producten/pdok-downloads/download-basisregistratie-grootschalige-topografie)
+
+Luchtfoto's en satellietbeelden:
+* [Luchtfoto](https://www.pdok.nl/nl/producten/pdok-services/overzicht-urls/l) (alleen de 25 cm infrarood en RGB foto zijn open data)
+* [Project beeldmateriaal](http://www.beeldmateriaal.nl/index.html)
+* [Satellietportaal](https://www.spaceoffice.nl/nl/satellietdataportaal/)
+* [Copernicus Open Access Hub](https://scihub.copernicus.eu)
+
+
