@@ -29,5 +29,7 @@ width, height = Image.open('./%s.tif' % coords).size
 size = width * height
 df['x'] = [i % 1000 for i in range(size)]
 df['y'] = [i // 1000 for i in range(size)]
+df.set_index(['x', 'y'], inplace=True)
 
 df.to_csv('%s.csv' % coords)
+print(df)
