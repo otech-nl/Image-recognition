@@ -9,14 +9,6 @@ De casussen zijn ingebracht door Wetterskip Fryslân. Het gaat om het ontwikkele
 Klik op de link om naar de trainingsdata te gaan.     
 Bij vragen over de casussen of trainingsdata kun je contact opnemen met Marcel Adema: madema(apestaartje)wetterskipfryslan(punt)nl.
 
-## Bijeenkomsten
-Data: Maandag 26 maart, 9 april en maandag 23 april 2018.     
-Aanvang: 16.00 uur.     
-Einde: 20.30 uur.     
-Catering: Er wordt gezorgd voor een hapje en een drankje.
-
-Neem voor vragen over GitHub -bijvoorbeeld voor het aanmaken van een repository voor je eigen team- contact op met Willy Tadema, e-mail: w(punt)tadema(at)provinciegroningen.nl
-
 ## Bestanden delen via GitHub
 Teams kunnen bestanden delen via een GitHub repository van Kennisnetwerk Data Science.    
 Neem hiervoor contact op met Willy Tadema: w(punt)tadema(apestaartje)provinciegroningen(punt)nl.    
@@ -47,3 +39,11 @@ MOOCs:
 * [Deep Learning Nanodegree Program](https://eu.udacity.com/course/deep-learning-nanodegree--nd101)
 * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
 * [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4)
+
+## Bijeenkomsten
+Data: Maandag 26 maart, 9 april en maandag 23 april 2018.     
+Aanvang: 16.00 uur.     
+Einde: 20.30 uur.    
+Catering: Er wordt gezorgd voor een hapje en een drankje.  
+
+![1ste meetup - 27 maart 2018](/images/hackathon.JPG)
