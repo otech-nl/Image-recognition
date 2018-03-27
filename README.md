@@ -1,18 +1,23 @@
 
-# Image-recognition
+# Image recognition hackathon
 
-Op 26 maart 2018 vindt de 2e Meetup van het Kennisnetwerk Data Science Noord-Nederland plaats. Dit keer gaan we aan slag met image recognition. Image recognition is één van meest aansprekende technieken binnen het vakgebied data science. De techniek is op dit moment volop in ontwikkeling. Er zijn al een aantal mooie toepassingen maar er valt nog veel te winnen. Binnen Wetterskip Fryslân zijn ze bezig om door middel van image recognition processen te automatiseren. Denk hierbij bijvoorbeeld aan het in kaart brengen van water en grond door middel van satellietfoto’s of het identificeren van diatomeeën (algen) op basis van foto’s. Het Wetterskip stelt data voor ons beschikbaar waarmee wij aan de slag kunnen. Image recorgnition is een mooie kans om onze data science kennis te verdiepen of te verbreden. Ga jij de uitdaging met ons aan?
+## Casussen
+De casussen zijn ingebracht door Wetterskip Fryslân. Het gaat om het ontwikkelen van een image recognition algoritme voor
+* [het classificeren van land en water in luchtfoto's](https://github.com/KennisnetwerkDataScience/Image-recognition/tree/master/data) of
+* [het onderscheiden van datomeeën in microscoopbeelden](https://github.com/KennisnetwerkDataScience/Image-recognition/tree/master/opdracht%202).      
 
-Voor deze case hebben we drie bijeenkomsten gepland zodat we voldoende tijd hebben aan de case te werken. Vanuit het kennisnetwerk hebben we een aantal interessante vraagstukken geformuleerd waar we in groepen mee aan de slag gaan. Op de eerste bijeenkomst wordt de case en vraagstelling gepresenteerd. Nadat de groepen zijn gevormd gaan we actief aan de slag met de data. De avond sluiten we af met een korte update per groep. De tweede bijeenkomst is een hands-on sessie waarin je samen met je team aan de slag gaat met de case. Ook deze avond sluiten af met een update over de voortgang.
-De derde en laatste bijeenkomst staat in het teken van de “laatste eindjes” en presentaties per groep. Hier zullen ook medewerkers van Wetterskip Fryslan aanwezig zijn. Voorafgaand aan de Meetup zullen een aantal leden van het netwerk aan de slag gaan met het prepareren van de data. Tijdens de meetings kunnen we dan direct aan de slag.
+Klik op de link om naar de trainingsdata te gaan.     
+Bij vragen over de casussen of trainingsdata kun je contact opnemen met Marcel Adema: madema(apestaartje)wetterskipfryslan(punt)nl.
 
-Wil je samen met ons de mogelijkheden van image recognition verder verkennen. Meld je nu aan! Door je aan te melden doe je mee aan alle drie de bijeenkomsten.
+## Bestanden delen via GitHub
+Teams kunnen bestanden delen via een GitHub repository van Kennisnetwerk Data Science.      
+Neem hiervoor contact op met Willy Tadema: w(punt)tadema(apestaartje)provinciegroningen(punt)nl.     
+Er zijn al repo's voor [team 2](./teampje2) en [team 5](./team5).
 
-Praktische zaken:
+## Bijeenkomsten
+Data: Maandag 26 maart, 9 april en maandag 23 april 2018.     
+Aanvang: 16.00 uur.     
+Einde: 20.30 uur.     
+Catering: Er wordt gezorgd voor een hapje en een drankje.
 
 Neem voor vragen over GitHub -bijvoorbeeld voor het aanmaken van een repository voor je eigen team- contact op met Willy Tadema, e-mail: w(punt)tadema(at)provinciegroningen.nl
-
-Data: Maandag 26 maart, 9 april en maandag 23 april 2018.
-Aanvang: 16.00 uur.
-Einde: 20.30 uur.
-Catering: Er wordt gezorgd voor een hapje en een drankje.
