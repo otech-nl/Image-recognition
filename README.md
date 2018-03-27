@@ -39,4 +39,11 @@ Luchtfoto's en satellietbeelden:
 * [Satellietportaal](https://www.spaceoffice.nl/nl/satellietdataportaal/)
 * [Copernicus Open Access Hub](https://scihub.copernicus.eu)
 
-
+MOOCs:
+* [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+* [Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [Deep Learning for Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA)
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+* [Deep Learning Nanodegree Program](https://eu.udacity.com/course/deep-learning-nanodegree--nd101)
+* [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+* [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4)
