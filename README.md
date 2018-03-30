@@ -1,5 +1,21 @@
 
+
+
 # Image recognition hackathon
+
+## Let op de grote Tiff bestanden van 500x500 meter waren te groot voor github deze kan je downloaden van mijn google drive
+
+https://drive.google.com/drive/folders/1QstBfDuQKXfY8C3P3wK507CgE4tBUGQB
+
+## Antwoorden op vragen 
+
+•	De foto’s van de diatomeeën soorten zijn allemaal gemaakt met een vergrotingsfactor 1000
+
+•	Op onderstaande site staan nog meer foto’s. ook meerdere foto’s van een soort volgens mij had een groep hier ook om gevraagd.
+http://rbg-web2.rbge.org.uk/ADIAC/db/adiacdb.htm
+https://westerndiatoms.colorado.edu/genera
+https://naturalhistory.museumwales.ac.uk/diatoms/taxalist.php?-action=search&-genus=Achnanthidium&-max=100&-skip=0&#top
+
 
 ## Casussen
 De casussen zijn ingebracht door Wetterskip Fryslân. Het gaat om het ontwikkelen van een image recognition algoritme voor
