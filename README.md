@@ -7,14 +7,24 @@
 
 https://drive.google.com/drive/folders/1QstBfDuQKXfY8C3P3wK507CgE4tBUGQB
 
-## Antwoorden op vragen 
+## Antwoorden op vragen Wetterskip Fryslan
 
-•	De foto’s van de diatomeeën soorten zijn allemaal gemaakt met een vergrotingsfactor 1000
+De foto’s van de diatomeeën soorten zijn allemaal gemaakt met een vergrotingsfactor 1000
 
-•	Op onderstaande site staan nog meer foto’s. ook meerdere foto’s van een soort volgens mij had een groep hier ook om gevraagd.
-*http://rbg-web2.rbge.org.uk/ADIAC/db/adiacdb.htm
-*https://westerndiatoms.colorado.edu/genera
-*https://naturalhistory.museumwales.ac.uk/diatoms/taxalist.php?-action=search&-genus=Achnanthidium&-max=100&-skip=0&#top
+Op onderstaande site staan nog meer foto’s. ook meerdere foto’s van een soort volgens mij had een groep hier ook om gevraagd.
+
+* http://rbg-web2.rbge.org.uk/ADIAC/db/adiacdb.htm
+* https://westerndiatoms.colorado.edu/genera
+* https://naturalhistory.museumwales.ac.uk/diatoms/taxalist.php?-action=search&-genus=Achnanthidium&-max=100&-skip=0&#top
+
+## Vragen die bij mij nog open staan zijn :
+
+•	Ik ben nog bezig om via de andere twee Noordelijke waterschappen extra beeld materiaal te krijgen.
+
+•	Andere vraag die nog open staat is hoe is er omgegaan met de naamgeving als er meerder soorten op een beeld staan bijvoorbeeld bij foto Eolimna subminuscula.jpg
+
+• Extra beeldmateriaal (100x100) voor voor het herkennen van land en water inclusief script die ik daar voor gebruik.
+
 
 
 ## Casussen
