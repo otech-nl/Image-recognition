@@ -4,7 +4,8 @@
 # Image recognition hackathon
 
 ## Data downloaden
-**Let op: de data voor opdracht 1 en 2 staan niet meer in deze GitHub repository.** Ze waren te groot. Je kunt ze nu via Google Drive downloaden.     
+**Let op: de data voor opdracht 1 en 2 staan niet meer in deze GitHub repository.**      
+De bestanden waren te groot. Je kunt ze nu via Google Drive downloaden.     
 [Download hier de data voor de hackathon](https://drive.google.com/drive/folders/1QstBfDuQKXfY8C3P3wK507CgE4tBUGQB).
 
 ## Antwoorden van Wetterskip Fryslan op vragen
