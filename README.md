@@ -25,7 +25,11 @@ Op onderstaande site staan nog meer foto’s. ook meerdere foto’s van een soor
 
 • Extra beeldmateriaal (100x100) voor voor het herkennen van land en water inclusief script die ik daar voor gebruik.
 
-
+## BGT-waterdelen voor extra training en test data
+Je kunt nu ook een [ZIP-bestand downloaden](https://drive.google.com/open?id=1MVjU8QpaBCOMvNUPca0BJpdv-lyLa9hK) met daarin een shape met alle [BGT-waterdelen](http://imgeo.geostandaarden.nl/def/imgeo-object/waterdeel) in Fryslân.     
+BGT staat voor Basisregistratie Grootschalige Topografie. De BGT is een digitale basiskaart, opgebouwd uit objecten als wegen, water, groen en spoor die in veel werkprocessen van de overheid nodig zijn. De BGT is open data.     
+De gegevens zijn in EPSG:28992 oftewel in het [Amersfoort/RD New coordinatensysteem](https://nl.wikipedia.org/wiki/Rijksdriehoeksco%C3%B6rdinaten).     
+Voor de hackathon kun je de BGT-waterdelen samen met [luchtfoto's](https://www.pdok.nl/nl/producten/pdok-services/overzicht-urls/l) of [satellietbeelden](http://www.satellietbeeld.nl/) gebruiken om meer training of test data te genereren.
 
 ## Casussen
 De casussen zijn ingebracht door Wetterskip Fryslân. Het gaat om het ontwikkelen van een image recognition algoritme voor
