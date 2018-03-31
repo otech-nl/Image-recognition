@@ -4,9 +4,14 @@
 # Image recognition hackathon
 
 ## Data downloaden
-**Let op: de data voor opdracht 1 en 2 staan niet meer in deze GitHub repository.**      
+**Let op: de data voor opdracht 1 en 2 staan niet meer in deze GitHub repository.**  
 De bestanden waren te groot. Je kunt ze nu via Google Drive downloaden.     
 [Download hier de data voor de hackathon](https://drive.google.com/drive/folders/1QstBfDuQKXfY8C3P3wK507CgE4tBUGQB).
+
+Marcel Adema 31-3: Heeft 2 extra 100x100 tegels gemaakt voor herkennen van Land en Water
+
+Marcel Adema 31-3: Heeft Python script voor aanmaken van 100x100 tegels op github geplaatst.
+
 
 ## Antwoorden van Wetterskip Fryslân op vragen
 
@@ -22,7 +27,6 @@ _Waar zijn meer foto's van diatomeeën te vinden?_
 
 *	Is het mogelijk om meer beeldmateriaal van diatomeeën te krijgen van andere noordelijke waterschappen?
 *	Hoe is er omgegaan met de naamgeving als er meerder diatomeeënsoorten op een beeld staan, bijvoorbeeld bij foto `Eolimna subminuscula.jpg`?
-* Is het mogelijk om extra luchtfoto's (100x100 tegels) beschikbaar te stellen? Kan het script dat gebruikt is voor het klaarzetten van de data ook gedeeld worden?
 * Kunnen de infrarood beelden van de 100x100 tegels ook gedeeld worden?
 * Is er metadata beschikbaar van de luchtfototegels? Bijvoorbeeld datum en tijd van opname.
 
