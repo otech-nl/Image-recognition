@@ -8,7 +8,7 @@
 De bestanden waren te groot. Je kunt ze nu via Google Drive downloaden.     
 [Download hier de data voor de hackathon](https://drive.google.com/drive/folders/1QstBfDuQKXfY8C3P3wK507CgE4tBUGQB).
 
-## Antwoorden van Wetterskip Fryslan op vragen
+## Antwoorden van Wetterskip Fryslân op vragen
 
 _Wat is de vergrotingsfactor van de foto's van diatomeeën?_     
 De foto's zijn allemaal gemaakt met een vergrotingsfactor 1000.
