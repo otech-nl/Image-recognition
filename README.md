@@ -33,10 +33,10 @@ Voor de hackathon kun je de BGT-waterdelen samen met [luchtfoto's](https://www.p
 
 ## Casussen
 De casussen zijn ingebracht door Wetterskip Fryslân. Het gaat om het ontwikkelen van een image recognition algoritme voor
-* [het classificeren van land en water in luchtfoto's](https://github.com/KennisnetwerkDataScience/Image-recognition/tree/master/data) of
-* [het onderscheiden van datomeeën in microscoopbeelden](https://github.com/KennisnetwerkDataScience/Image-recognition/tree/master/opdracht%202).      
+* [het classificeren van land en water in luchtfoto's](https://drive.google.com/drive/folders/1QstBfDuQKXfY8C3P3wK507CgE4tBUGQB) of
+* [het onderscheiden van datomeeën in microscoopbeelden](https://drive.google.com/drive/folders/1QstBfDuQKXfY8C3P3wK507CgE4tBUGQB).      
 
-Klik op de link om naar de trainingsdata te gaan.     
+Klik op de link om de data te downloaden.     
 Bij vragen over de casussen of trainingsdata kun je contact opnemen met Marcel Adema: madema(apestaartje)wetterskipfryslan(punt)nl.
 
 ## Bestanden delen via GitHub
