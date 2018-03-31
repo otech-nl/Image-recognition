@@ -3,27 +3,27 @@
 
 # Image recognition hackathon
 
-## Let op de grote Tiff bestanden van 500x500 meter waren te groot voor github deze kan je downloaden van mijn google drive
+## Data downloaden
+**Let op: de data voor opdracht 1 en 2 staan niet meer in deze GitHub repository.** Ze waren te groot. Je kunt ze nu via Google Drive downloaden.     
+[Download hier de data voor de hackathon](https://drive.google.com/drive/folders/1QstBfDuQKXfY8C3P3wK507CgE4tBUGQB).
 
-https://drive.google.com/drive/folders/1QstBfDuQKXfY8C3P3wK507CgE4tBUGQB
+## Antwoorden van Wetterskip Fryslan op vragen
 
-## Antwoorden op vragen Wetterskip Fryslan
+_Wat is de vergrotingsfactor van de foto's van diatomeeën?_
+De foto's zijn allemaal gemaakt met een vergrotingsfactor 1000.
 
-De foto’s van de diatomeeën soorten zijn allemaal gemaakt met een vergrotingsfactor 1000
+_Waar zijn meer foto's van diatomeeën te vinden?_
+* [ADIA Diatom Image Database](http://rbg-web2.rbge.org.uk/ADIAC/db/adiacdb.htm)
+* [GENERA - Diatoms of the United States](https://westerndiatoms.colorado.edu/genera)
+* [Diatom Flora of Britain and Ireland](https://naturalhistory.museumwales.ac.uk/diatoms/taxalist.php?-action=search&-genus=Achnanthidium&-max=100&-skip=0&#top)
 
-Op onderstaande site staan nog meer foto’s. ook meerdere foto’s van een soort volgens mij had een groep hier ook om gevraagd.
+## Openstaande vragen
 
-* http://rbg-web2.rbge.org.uk/ADIAC/db/adiacdb.htm
-* https://westerndiatoms.colorado.edu/genera
-* https://naturalhistory.museumwales.ac.uk/diatoms/taxalist.php?-action=search&-genus=Achnanthidium&-max=100&-skip=0&#top
-
-## Vragen die bij mij nog open staan zijn :
-
-•	Ik ben nog bezig om via de andere twee Noordelijke waterschappen extra beeld materiaal te krijgen.
-
-•	Andere vraag die nog open staat is hoe is er omgegaan met de naamgeving als er meerder soorten op een beeld staan bijvoorbeeld bij foto Eolimna subminuscula.jpg
-
-• Extra beeldmateriaal (100x100) voor voor het herkennen van land en water inclusief script die ik daar voor gebruik.
+*	Is het mogelijk om meer beeldmateriaal van diatomeeën te krijgen van andere noordelijke waterschappen?
+*	Hoe is er omgegaan met de naamgeving als er meerder diatomeeënsoorten op een beeld staan, bijvoorbeeld bij foto `Eolimna subminuscula.jpg`?
+* Is het mogelijk om extra luchtfoto's (100x100 tegels) beschikbaar te stellen? Kan het script dat gebruikt is voor het klaarzetten van de data ook gedeeld worden?
+* Kunnen de infrarood beelden van de 100x100 tegels ook gedeeld worden?
+* Is er metadata beschikbaar van de luchtfototegels? Bijvoorbeeld datum en tijd van opname.
 
 ## BGT-waterdelen voor extra training en test data
 Je kunt nu ook een [ZIP-bestand downloaden](https://drive.google.com/open?id=1eMRib4FvU_ICus16KmYupVXF7g8JGsu1) met daarin een shape met alle [BGT-waterdelen](http://imgeo.geostandaarden.nl/def/imgeo-object/waterdeel) in Fryslân.     
