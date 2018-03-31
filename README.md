@@ -10,7 +10,7 @@ De bestanden waren te groot. Je kunt ze nu via Google Drive downloaden.
 
 ## Antwoorden van Wetterskip Fryslan op vragen
 
-_Wat is de vergrotingsfactor van de foto's van diatomeeën?_
+_Wat is de vergrotingsfactor van de foto's van diatomeeën?_     
 De foto's zijn allemaal gemaakt met een vergrotingsfactor 1000.
 
 _Waar zijn meer foto's van diatomeeën te vinden?_
