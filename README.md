@@ -1,6 +1,7 @@
 
 
 
+
 # Image recognition hackathon
 
 ## Data downloaden
@@ -11,6 +12,8 @@ De bestanden waren te groot. Je kunt ze nu via Google Drive downloaden.
 Marcel Adema 31-3: Heeft 2 extra 100x100 tegels gemaakt voor herkennen van Land en Water
 
 Marcel Adema 31-3: Heeft Python script voor aanmaken van 100x100 tegels op github geplaatst.
+
+Marcel Adema 20-4: Heeft 32 extra 100x100 tegels gemaakt voor herkennen van land en water
 
 
 ## Antwoorden van Wetterskip Fryslân op vragen
